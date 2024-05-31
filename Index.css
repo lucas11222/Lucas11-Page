@@ -1,4 +1,4 @@
-p {
+h1 {
     color:antiquewhite;
     font-size: 16px;
     line-height: 1.5;
@@ -10,4 +10,15 @@ p {
     border-color: red;
 
     border-radius: 12px;
+}
+p  {
+    opacity: 0.0;
+
+    direction: column;
+    padding: 10px;
+    border-radius: 12px;
+    border-width: 2px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    gap: 5px;
 }
